@@ -189,3 +189,9 @@ Notes
 •	The dataset is simulated and intended for educational and demonstration purposes only.
 
 •	The dashboard design prioritizes clarity, executive-level insights, and decision-making support.
+
+<img width="1315" height="741" alt="image" src="https://github.com/user-attachments/assets/fa0994c4-4c40-4f8d-b7c7-79b2a6ac92cd" />
+
+<img width="1315" height="738" alt="image" src="https://github.com/user-attachments/assets/08c36e03-297a-492b-8b94-6ebd57b360cd" />
+
+
